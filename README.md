@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,mysql,html,css,vscode,git" />
  </a>
 </div>
+<hr/>
 
 <div align="center">
 <h2>🐍 My Contributions 🐍 </h2> 
@@ -49,4 +50,12 @@
 
 <br/><br/><br/>
 </div>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align="center">
+ <img width=390 src="https://streak-stats.demolab.com/?user=jihenmansour&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
 
