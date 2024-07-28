@@ -29,3 +29,14 @@
  <img src="https://img.shields.io/badge/Portfolio-8338ec?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 </div>
+
+<h2 align="center">✒️ Languages-Frameworks-Tools</h2>
+
+<br/>
+<div align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,mysql,html,css,vscode,git" />
+ </a>
+</div>
+
