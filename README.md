@@ -29,6 +29,7 @@
  <img src="https://img.shields.io/badge/Portfolio-8338ec?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 </div>
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
@@ -43,5 +44,10 @@
 <div align="center">
 <h2>🐍 My Contributions 🐍 </h2> 
  <br/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
