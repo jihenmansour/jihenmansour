@@ -65,7 +65,7 @@
 <hr/>
 
 <h3 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&duration=3000&pause=1000&color=9d4edd&width=500&height=70&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab 🙂" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&center=true&duration=3000&pause=1000&color=9d4edd&width=500&height=70&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab 🙂" alt="Typing SVG" />
 </h3>
 
 <br/>
