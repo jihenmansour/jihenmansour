@@ -19,13 +19,13 @@
 <div align="center">
   
 <a href="mailto:jihenmn8@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Gmail-ff006e?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jihen-mansour-392324178/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/LinkedIn-3a86ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
  <a href="https://jihen-mansour.vercel.app/">
- <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Portfolio-8338ec?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 </div>
