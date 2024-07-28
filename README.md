@@ -13,6 +13,13 @@
  🖌 I'm currently working on **an e-commerce website** 
  
  🌿 I'm currently learning **MongoDB, Next.js, Node.js, Express.js**
+ 
+</div>
 
+<div align="center">
   
+<a href="mailo:jihenmn8@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+ 
 </div>
