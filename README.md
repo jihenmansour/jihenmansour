@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jihenmansour.jihenmansour&left_color=mauve"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jihenmansour.jihenmansour&left_color=violet"/>
